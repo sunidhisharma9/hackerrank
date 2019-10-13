@@ -27,7 +27,7 @@ for(i=0;i<n;i++){
 }
 return val;
 }
-
+//main funtion
 int main()
 {
     FILE* fptr = fopen(getenv("OUTPUT_PATH"), "w");
